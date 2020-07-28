@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Shobes1421/Full-Stack/issues"
   },
-  "homepage": "https://github.com/Shobes1421/Full-Stack#readme"
+  "homepage": "https://github.com/Shobes1421/Full-Stack#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
